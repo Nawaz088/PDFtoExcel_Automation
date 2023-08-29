@@ -20,10 +20,10 @@ pip install selenium openpyxl pandas
 ```
 
 **4. Save the Script:**
-- Save the provided Python script to a folder on your computer. You can name the file `excel_automation.py`.
+- Save the provided Python script to a folder on your computer. You can name the file `PDFtoExcel.py`.
 
 **5. Configure ChromeDriver Path:**
-- Open the `excel_automation.py` script in a text editor.
+- Open the `PDFtoExcel.py` script in a text editor.
 - Replace the `chromedriver_path` variable with the path to the ChromeDriver executable you downloaded earlier. Make sure to use double backslashes (`\\`) in the file path.
 
 **6. Run the Script:**
@@ -34,7 +34,7 @@ pip install selenium openpyxl pandas
   ```
 - Run the script using the command:
   ```
-  python excel_automation.py
+  python PDFtoExcel.py
   ```
 
 **7. Follow the Prompts:**
